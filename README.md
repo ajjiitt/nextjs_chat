@@ -6,7 +6,6 @@
     height="100%"
 />
 
-Video Tutorial is [here](https://chatengine.io).
 
 
 ## Setup
